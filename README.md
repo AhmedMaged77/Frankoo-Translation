@@ -1,4 +1,4 @@
-#Frankoo Transltion
+# Frankoo Transltion
 Frankoo Translator is a simple Python application for translating Frankoo to Arabic. 
 It utilizes a custom correction module for a better Transltion. 
 The project includes two files one for the charcter mapping and one for spical words in Frankoo.
